@@ -15,3 +15,5 @@ Sirve para dar puntos de vista
 Agrego esta linea de comentario para subirla a Github
 
 -El dia 26/02/2021 se ha procedido a actualizar este archivo para ser subido a el repositorio 
+
+-Se me olvido agregar esta linea para este mismo dia 26/02/2021. La agrego y doy conformidad al hecho .
