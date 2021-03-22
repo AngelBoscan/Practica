@@ -1,4 +1,6 @@
--Se procede a subir al repo este 2do documento 
+-Se procede a subir al repo este 2do documento
 
 
--Procedo a actualizar este documento 
+-Procedo a actualizar este documento
+
+Modifico 2do docu.txt
